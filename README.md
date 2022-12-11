@@ -13,6 +13,5 @@ Repositório destinado ao aprendizado de SQL para análise de dados do Básico a
 * Como criar e manipular tabelas
 * Como aplicar o SQL na análise de dados de negócio
 
-<a src ="https://www.udemy.com/course/sql-para-analise-de-dados/"> Link do Curso</a>
 
-https://www.udemy.com/course/sql-para-analise-de-dados/
+<a href="https://www.udemy.com/course/sql-para-analise-de-dados/">Link do Curso</a>
